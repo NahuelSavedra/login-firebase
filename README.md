@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Users registration in firebase
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple proyect for register users with firebase authentication 
+
+![image](https://user-images.githubusercontent.com/61848207/127404080-e64b7660-27cb-4497-be65-53d1b226cc07.png)
 
 ## Available Scripts
 
